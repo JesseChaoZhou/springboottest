@@ -13,5 +13,6 @@ public class Spring4test1Application {
 
 		SpringApplication.run(Spring4test1Application.class, args);
 		//my name is zcc .
+		System.out.println("");
 	}
 }
