@@ -12,5 +12,6 @@ public class Spring4test1Application {
 	public static void main(String[] args) {
 
 		SpringApplication.run(Spring4test1Application.class, args);
+		//my name is zcc .
 	}
 }
